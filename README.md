@@ -46,7 +46,7 @@ To run the model locally, you need the following dependencies:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/campus-placement-prediction.git
+git clone https://github.com/Adarsh10337/Placement-predictor.git
 
 
 2. Install the required dependencies:
